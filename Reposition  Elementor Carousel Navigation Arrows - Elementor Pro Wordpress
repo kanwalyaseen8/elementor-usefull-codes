@@ -1,0 +1,11 @@
+.elementor-element .swiper~.elementor-swiper-button-next {
+position: relative;
+left: 25px;
+bottom: 20px;
+}
+
+.elementor-element .swiper~.elementor-swiper-button-prev {
+position: relative;
+left: 10px;
+bottom: 20px;
+}
