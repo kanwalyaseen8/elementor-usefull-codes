@@ -1,0 +1,20 @@
+.elementor-accordion .elementor-accordion-item {border-radius: 28px;
+border: 2px solid rgb(28, 83, 244, 0.08);
+background: #FFF;
+box-shadow: 10px 10px 40px 0px rgba(44, 50, 169, 0.04);
+    margin: 10px;
+    padding: 32px
+}
+
+div#elementor-tab-content-5541 {
+    border: none;
+}
+div#elementor-tab-content-5542 {
+    border: none;
+}
+div#elementor-tab-content-5543 {
+    border: none;
+}
+div#elementor-tab-content-5544 {
+    border: none;
+}
